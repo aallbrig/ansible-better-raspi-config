@@ -1,4 +1,4 @@
-#### "better" raspi config ansible galaxy role
+### "better" raspi config ansible galaxy role
 
 I noticed an opportunity to create an ansible galaxy role to create an ansible interface for using the `raspi-config` GUI tool that ships with Raspbian.
 
