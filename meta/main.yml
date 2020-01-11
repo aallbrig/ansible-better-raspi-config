@@ -1,0 +1,14 @@
+galaxy_info:
+  author: Andrew Allbright
+  description: Ansible role to configure raspberry pis based on raspi-config bin
+
+  license: license (GPLv2, CC-BY, etc)
+
+  min_ansible_version: 1.2
+
+  galaxy_tags:
+    - Raspberry pi
+    - raspi-config
+    - raspbery config
+
+dependencies: []
